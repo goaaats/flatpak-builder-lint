@@ -1032,7 +1032,8 @@
         "finish-args-flatpak-spawn-access": "the app predates this linter rule"
     },
     "dev.goats.xivlauncher": {
-        "finish-args-flatpak-spawn-access": "the app predates this linter rule"
+        "finish-args-flatpak-spawn-access": "the app predates this linter rule",
+        "flathub-json-modified-publish-delay": "Requires regular short-notice updates due to unforeseen server protocol changes"
     },
     "dev.lapce.lapce": {
         "finish-args-flatpak-spawn-access": "the app predates this linter rule"
